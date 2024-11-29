@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Inter";
+  src: url('../assets/Inter.ttf') format("truetype");
+}
+
+$backgroundColor: #fafbfa;
+$primaryColor: #6b5b51;
+
+body {
+  background-color: $backgroundColor;
+  font-family: "Inter";
+}
